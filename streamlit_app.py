@@ -80,7 +80,7 @@ def main():
     st.markdown("---")
     st.markdown("**This App will predict whether the customer will default on loan repayment or not**.")
     st.image("stream_image.jpg")
-    st.divider()
+    st.markdown("---")
 
     st.markdown("##### *Enter customer information below* :")
 
