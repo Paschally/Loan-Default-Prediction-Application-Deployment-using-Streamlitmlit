@@ -3,3 +3,4 @@ pandas==1.3.5
 streamlit==1.12.2
 scikit-learn
 matplotlib==3.5.1
+xgboost
